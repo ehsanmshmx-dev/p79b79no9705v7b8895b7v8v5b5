@@ -1,2 +1,2 @@
 trojan://ehs82iss-vpnjantit.com@5.34.182.153:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ua3.vpnjantit.com#Config
-wireguard://wGvIluhhVlsKO1uTNB0LR0Y4Zj2ZWszZoXygCJEoskg%3D@147.135.15.16:25018?address=10.104.8.80%2F32&presharedkey=&reserved=0%2C0%2C0&publickey=YLaLJahXZ6NuASXQLPl0eUPVAypirpaLuuO7tZa2bmo%3D&mtu=600#fade
+wireguard://wGvIluhhVlsKO1uTNB0LR0Y4Zj2ZWszZoXygCJEoskg%3D@147.135.15.16:25018?address=10.104.8.80%2F32&presharedkey=&reserved=0%2C0%2C0&publickey=YLaLJahXZ6NuASXQLPl0eUPVAypirpaLuuO7tZa2bmo%3D&mtu=1420#%23US
